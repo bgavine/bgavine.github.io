@@ -78,8 +78,6 @@ h1, h2, h3, h4, h5, strong {
     text-align: center;
     border: 2px solid var(--sidebar-img-border-color);
     border-radius: 50%;
-    height: 180px;
-    width: 180px;
 }
 .social {
     margin-right: 0.5em;

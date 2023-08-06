@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Cathy Gavine English Tutoring</title>
     <link>https://bgavine.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Cathy Gavine English Tutoring</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2023 23:06:56 +0000</lastBuildDate><atom:link href="https://bgavine.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Services</title>
-      <link>https://bgavine.github.io/posts/services/</link>
-      <pubDate>Wed, 04 Jan 2023 23:06:56 +0000</pubDate>
-      
-      <guid>https://bgavine.github.io/posts/services/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://bgavine.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 04 Jan 2023 23:05:41 +0000</pubDate>
-      
-      <guid>https://bgavine.github.io/posts/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://bgavine.github.io/posts/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bgavine.github.io/posts/education/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://bgavine.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
